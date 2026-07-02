@@ -54,8 +54,10 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0125-valid-palindrome) |
+| [0443-string-compression](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0443-string-compression) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0125-valid-palindrome) |
+| [0443-string-compression](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0443-string-compression) |
 <!---LeetCode Topics End-->

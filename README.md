@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0069-sqrtx) |
 | [3024-type-of-triangle](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/3024-type-of-triangle) |
 ## Two Pointers
 |  |

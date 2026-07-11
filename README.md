@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0054-spiral-matrix](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0075-sort-colors) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0867-transpose-matrix](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0867-transpose-matrix) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0075-sort-colors) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [3024-type-of-triangle](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/3024-type-of-triangle) |
 ## Heap (Priority Queue)
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0125-valid-palindrome) |
 | [0443-string-compression](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0443-string-compression) |
 ## String

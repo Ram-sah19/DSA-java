@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0054-spiral-matrix](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0059-spiral-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0867-transpose-matrix) |
+| [3174-clear-digits](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/3174-clear-digits) |
 ## Binary Search
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0058-length-of-last-word](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0125-valid-palindrome) |
 | [0443-string-compression](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0443-string-compression) |
+| [3174-clear-digits](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/3174-clear-digits) |
 | [3798-largest-even-number](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/3798-largest-even-number) |
 ## String Matching
 |  |
@@ -84,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/2413-smallest-even-multiple) |
+## Stack
+|  |
+| ------- |
+| [3174-clear-digits](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/3174-clear-digits) |
 <!---LeetCode Topics End-->

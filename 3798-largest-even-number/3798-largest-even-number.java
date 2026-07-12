@@ -1,12 +1,16 @@
 class Solution {
     public String largestEven(String s) {
 
-        int i = s.length() - 1;
+        while (s.length() > 0) {
+            int num = s.charAt(s.length() - 1) - '0';
 
-        while (i >= 0 && (s.charAt(i) - '0') % 2 != 0) {
-            i--;
+            if (num % 2 == 0) {
+                return s;
+            } else {
+                s = s.substring(0, s.length() - 1);
+            }
         }
 
-        return s.substring(0, i + 1);
+        return "";
     }
 }

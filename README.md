@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0069-sqrtx) |
+| [2413-smallest-even-multiple](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/2413-smallest-even-multiple) |
 | [3024-type-of-triangle](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/3024-type-of-triangle) |
 ## Two Pointers
 |  |
@@ -78,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->

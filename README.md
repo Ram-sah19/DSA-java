@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0125-valid-palindrome) |
@@ -92,4 +93,12 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [3174-clear-digits](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/3174-clear-digits) |
+## Hash Table
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->

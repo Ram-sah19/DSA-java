@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0069-sqrtx) |
 | [2413-smallest-even-multiple](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/2413-smallest-even-multiple) |
 | [3024-type-of-triangle](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/3024-type-of-triangle) |
@@ -101,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0003-longest-substring-without-repeating-characters) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->

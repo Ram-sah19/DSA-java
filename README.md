@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0059-spiral-matrix-ii](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0075-sort-colors) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0867-transpose-matrix](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0867-transpose-matrix) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0004-median-of-two-sorted-arrays](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0074-search-a-2d-matrix) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Sorting

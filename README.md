@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0069-sqrtx](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0069-sqrtx) |
 | [2413-smallest-even-multiple](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/2413-smallest-even-multiple) |
 | [3024-type-of-triangle](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/3024-type-of-triangle) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Two Pointers
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/2413-smallest-even-multiple) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Stack
 |  |
 | ------- |

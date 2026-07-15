@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview
 | ------- |
 | [0029-divide-two-integers](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0043-multiply-strings) |
+| [0050-powx-n](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0069-sqrtx) |
 | [2413-smallest-even-multiple](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/2413-smallest-even-multiple) |
 | [3024-type-of-triangle](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/3024-type-of-triangle) |
@@ -115,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0029-divide-two-integers) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->

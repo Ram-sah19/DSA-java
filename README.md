@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0867-transpose-matrix](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/1572-matrix-diagonal-sum) |
 | [3024-type-of-triangle](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/3024-type-of-triangle) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0059-spiral-matrix-ii](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0059-spiral-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0867-transpose-matrix) |
 | [3174-clear-digits](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/3174-clear-digits) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0075-sort-colors](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0075-sort-colors) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [3024-type-of-triangle](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/3024-type-of-triangle) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -75,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview
 | [2413-smallest-even-multiple](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/2413-smallest-even-multiple) |
 | [3024-type-of-triangle](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/3024-type-of-triangle) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -82,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0075-sort-colors](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0125-valid-palindrome) |
 | [0443-string-compression](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0443-string-compression) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -102,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/2413-smallest-even-multiple) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
 |  |
 | ------- |

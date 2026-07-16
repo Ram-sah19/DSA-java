@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview
 | [3024-type-of-triangle](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/3024-type-of-triangle) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3968-maximum-manhattan-distance-after-all-moves](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Two Pointers
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0443-string-compression](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0443-string-compression) |
 | [3174-clear-digits](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/3174-clear-digits) |
 | [3798-largest-even-number](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/3798-largest-even-number) |
+| [3968-maximum-manhattan-distance-after-all-moves](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## String Matching
 |  |
 | ------- |
@@ -130,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0050-powx-n) |
+## Counting
+|  |
+| ------- |
+| [3968-maximum-manhattan-distance-after-all-moves](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 <!---LeetCode Topics End-->

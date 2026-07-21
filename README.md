@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0443-string-compression](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0443-string-compression) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3174-clear-digits](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/3174-clear-digits) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3798-largest-even-number](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/3798-largest-even-number) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## String Matching
@@ -170,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Enumeration
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/3499-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->

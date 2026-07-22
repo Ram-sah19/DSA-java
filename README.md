@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0217-contains-duplicate](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0867-transpose-matrix](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0867-transpose-matrix) |
@@ -138,11 +139,13 @@ A collection of LeetCode questions to ace the coding interview
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0219-contains-duplicate-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/3312-sorted-gcd-pair-queries) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0219-contains-duplicate-ii) |
 ## Bit Manipulation
 |  |
 | ------- |

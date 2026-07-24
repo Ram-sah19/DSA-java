@@ -186,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/3499-maximize-active-section-with-trade-i) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->

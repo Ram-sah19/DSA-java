@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0182-duplicate-emails](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0196-delete-duplicate-emails) |
+| [0197-rising-temperature](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0197-rising-temperature) |
 | [0584-find-customer-referee](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0595-big-countries) |
 | [1164-product-price-at-a-given-date](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/1164-product-price-at-a-given-date) |

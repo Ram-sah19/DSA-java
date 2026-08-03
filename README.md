@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0043-multiply-strings](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0067-add-binary) |
 | [0867-transpose-matrix](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/1260-shift-2d-grid) |
 | [3174-clear-digits](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/3174-clear-digits) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0029-divide-two-integers](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0326-power-of-three) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0125-valid-palindrome) |
 | [0443-string-compression](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0443-string-compression) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0231-power-of-two) |

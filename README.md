@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview
 | [1346-check-if-n-and-its-double-exist](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1572-matrix-diagonal-sum](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/1572-matrix-diagonal-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3024-type-of-triangle](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/3024-type-of-triangle) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0240-search-a-2d-matrix-ii](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/3312-sorted-gcd-pair-queries) |
 ## Sorting
 |  |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview
 ## Counting
 |  |
 | ------- |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/3312-sorted-gcd-pair-queries) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Combinatorics

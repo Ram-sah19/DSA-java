@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0240-search-a-2d-matrix-ii) |
+| [0372-super-pow](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0372-super-pow) |
 ## Math
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0231-power-of-two](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0342-power-of-four) |
+| [0372-super-pow](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0372-super-pow) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/2413-smallest-even-multiple) |
@@ -220,4 +222,12 @@ A collection of LeetCode questions to ace the coding interview
 | [0584-find-customer-referee](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0595-big-countries) |
 | [1164-product-price-at-a-given-date](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/1164-product-price-at-a-given-date) |
+## Euler's Totient Function
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0372-super-pow) |
+## Euler's Theorem
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0372-super-pow) |
 <!---LeetCode Topics End-->

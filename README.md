@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0240-search-a-2d-matrix-ii) |
+| [0367-valid-perfect-square](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0367-valid-perfect-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0231-power-of-two](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0367-valid-perfect-square) |
 | [0372-super-pow](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0372-super-pow) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/1979-find-greatest-common-divisor-of-array) |

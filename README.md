@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0004-median-of-two-sorted-arrays](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0048-rotate-image](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0074-search-a-2d-matrix) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0074-search-a-2d-matrix) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview
 | ------- |
 | [0029-divide-two-integers](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0069-sqrtx) |

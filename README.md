@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview
 | [1346-check-if-n-and-its-double-exist](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/1572-matrix-diagonal-sum) |
+| [1929-concatenation-of-array](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3024-type-of-triangle](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/3024-type-of-triangle) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0067-add-binary](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0067-add-binary) |
 | [0867-transpose-matrix](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/1260-shift-2d-grid) |
+| [1929-concatenation-of-array](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/1929-concatenation-of-array) |
 | [3174-clear-digits](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/3174-clear-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search

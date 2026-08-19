@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0004-median-of-two-sorted-arrays](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0041-first-missing-positive](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0059-spiral-matrix-ii) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0041-first-missing-positive](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0041-first-missing-positive) |
 | [0202-happy-number](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0219-contains-duplicate-ii) |

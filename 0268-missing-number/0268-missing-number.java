@@ -3,10 +3,10 @@ class Solution {
         int min = 0;
         int max = arr.length;
 
-        for (int i = 0; i < arr.length; i++) {
-            min = Math.min(min, arr[i]);
-            // max = Math.max(max, arr[i]);
-        }
+        // for (int i = 0; i < arr.length; i++) {
+        //     min = Math.min(min, arr[i]);
+        //     // max = Math.max(max, arr[i]);
+        // }
 
         for (int j = min; j <= max; j++) {
 

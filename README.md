@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0217-contains-duplicate](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0867-transpose-matrix](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0867-transpose-matrix) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0367-valid-perfect-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview
 | ------- |
 | [0075-sort-colors](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0628-maximum-product-of-three-numbers) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -110,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0070-climbing-stairs](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0367-valid-perfect-square) |
@@ -174,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0202-happy-number](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0268-missing-number) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/1346-check-if-n-and-its-double-exist) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/3312-sorted-gcd-pair-queries) |
 ## Sliding Window
@@ -189,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0136-single-number](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0342-power-of-four) |
 ## Recursion
 |  |

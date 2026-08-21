@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0074-search-a-2d-matrix](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0202-happy-number) |

@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0219-contains-duplicate-ii](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0283-move-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0867-transpose-matrix](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0867-transpose-matrix) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0125-valid-palindrome](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0443-string-compression) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/1346-check-if-n-and-its-double-exist) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/3867-sum-of-gcd-of-formed-pairs) |

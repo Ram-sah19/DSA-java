@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0584-find-customer-referee](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0584-find-customer-referee) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0595-big-countries) |
+| [0596-classes-with-at-least-5-students](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0596-classes-with-at-least-5-students) |
 | [1164-product-price-at-a-given-date](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/1164-product-price-at-a-given-date) |
 ## Euler's Totient Function
 |  |

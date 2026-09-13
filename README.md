@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0596-classes-with-at-least-5-students](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0596-classes-with-at-least-5-students) |
 | [0607-sales-person](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0607-sales-person) |
 | [0619-biggest-single-number](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0619-biggest-single-number) |
+| [0627-swap-sex-of-employees](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0627-swap-sex-of-employees) |
 | [1164-product-price-at-a-given-date](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/1164-product-price-at-a-given-date) |
 ## Euler's Totient Function
 |  |

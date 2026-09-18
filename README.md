@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview
 | ------- |
 | [0070-climbing-stairs](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0509-fibonacci-number) |
+| [0790-domino-and-tromino-tiling](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0790-domino-and-tromino-tiling) |
 ## Memoization
 |  |
 | ------- |

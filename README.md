@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0867-transpose-matrix) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1207-unique-number-of-occurrences](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/1260-shift-2d-grid) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0219-contains-duplicate-ii](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0268-missing-number) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1207-unique-number-of-occurrences](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/1207-unique-number-of-occurrences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/1346-check-if-n-and-its-double-exist) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/3312-sorted-gcd-pair-queries) |
 ## Sliding Window

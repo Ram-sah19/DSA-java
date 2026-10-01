@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0628-maximum-product-of-three-numbers](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/2413-smallest-even-multiple) |
+| [2864-maximum-odd-binary-number](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/2864-maximum-odd-binary-number) |
 | [3024-type-of-triangle](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/3024-type-of-triangle) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0151-reverse-words-in-a-string](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0443-string-compression) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2864-maximum-odd-binary-number](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/2864-maximum-odd-binary-number) |
 | [3174-clear-digits](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/3174-clear-digits) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3798-largest-even-number](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/3798-largest-even-number) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0011-container-with-most-water) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2864-maximum-odd-binary-number](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/2864-maximum-odd-binary-number) |
 ## Monotonic Stack
 |  |
 | ------- |

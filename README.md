@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0326-power-of-three) |
@@ -312,4 +313,8 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0852-peak-index-in-a-mountain-array) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->

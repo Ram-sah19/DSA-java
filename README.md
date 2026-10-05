@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0067-add-binary](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0067-add-binary) |
 | [0867-transpose-matrix](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/1260-shift-2d-grid) |
+| [1688-count-of-matches-in-tournament](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/1688-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/1929-concatenation-of-array) |
 | [3174-clear-digits](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/3174-clear-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0372-super-pow](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0372-super-pow) |
 | [0509-fibonacci-number](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0628-maximum-product-of-three-numbers) |
+| [1688-count-of-matches-in-tournament](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/1688-count-of-matches-in-tournament) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/2413-smallest-even-multiple) |
 | [2864-maximum-odd-binary-number](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/2864-maximum-odd-binary-number) |

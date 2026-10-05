@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview
 | [1929-concatenation-of-array](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2549-count-distinct-numbers-on-board](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/2549-count-distinct-numbers-on-board) |
 | [3024-type-of-triangle](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/3024-type-of-triangle) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview
 | [1260-shift-2d-grid](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/1260-shift-2d-grid) |
 | [1688-count-of-matches-in-tournament](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/1688-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/1929-concatenation-of-array) |
+| [2549-count-distinct-numbers-on-board](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/2549-count-distinct-numbers-on-board) |
 | [3174-clear-digits](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/3174-clear-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview
 | [1688-count-of-matches-in-tournament](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/1688-count-of-matches-in-tournament) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/2413-smallest-even-multiple) |
+| [2549-count-distinct-numbers-on-board](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/2549-count-distinct-numbers-on-board) |
 | [2864-maximum-odd-binary-number](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/2864-maximum-odd-binary-number) |
 | [3024-type-of-triangle](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/3024-type-of-triangle) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/3312-sorted-gcd-pair-queries) |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/1207-unique-number-of-occurrences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2549-count-distinct-numbers-on-board](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/2549-count-distinct-numbers-on-board) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/3312-sorted-gcd-pair-queries) |
 ## Sliding Window
 |  |

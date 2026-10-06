@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0048-rotate-image) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0058-length-of-last-word) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0041-first-missing-positive) |
 | [0202-happy-number](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Ram-sah19/https-github.com-Ram-sah19-DSA-java/tree/master/0217-contains-duplicate) |
